@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Услуги on Videa29</title>
-    <link>http://videa29.ru/catalog/</link>
+    <link>https://pharick.github.io/videa29/catalog/</link>
     <description>Recent content in Услуги on Videa29</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language><atom:link href="http://videa29.ru/catalog/index.xml" rel="self" type="application/rss+xml" />
+    <language>ru</language><atom:link href="https://pharick.github.io/videa29/catalog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
